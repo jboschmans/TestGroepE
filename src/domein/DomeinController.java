@@ -11,4 +11,5 @@ package domein;
  */
 public class DomeinController {
     private int stefaan;
+    private int joris;
 }
